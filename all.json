@@ -1,0 +1,32 @@
+{
+  "name": "丽敏影视-全量源",
+  "version": 2,
+  "sources": [
+    {
+      "name": "量子资源",
+      "url": "http://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡资源",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "加速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    }
+  ],
+  "liveSources": [
+    {
+      "name": "IPTV全球",
+      "url": "https://iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "name": "IPTV中国",
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
+    },
+    {
+      "name": "IPTV电影",
+      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+    }
+  ]
+}
