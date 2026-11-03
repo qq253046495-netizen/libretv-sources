@@ -1,0 +1,18 @@
+{
+  "name": "丽敏影视-直播源",
+  "version": 2,
+  "liveSources": [
+    {
+      "name": "IPTV全球",
+      "url": "https://iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "name": "IPTV中国",
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
+    },
+    {
+      "name": "IPTV电影",
+      "url": "https://iptv-org.github.io/iptv/categories/movies.m3u"
+    }
+  ]
+}
