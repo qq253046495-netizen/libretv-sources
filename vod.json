@@ -1,0 +1,18 @@
+{
+  "name": "丽敏影视-点播源",
+  "version": 2,
+  "sources": [
+    {
+      "name": "量子资源",
+      "url": "http://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡资源",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "加速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    }
+  ]
+}
